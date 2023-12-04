@@ -1,0 +1,44 @@
+{
+    "foods": [
+      {
+        "id": 1,
+        "name": "Food 1",
+        "description": "Description 1",
+        "recipe": [
+          {
+            "id": 1,
+            "title": "Recipe 1",
+            "ingredients": ["Ingredient 1", "Ingredient 2"],
+            "instructions": "Step 1, Step 2, Step 3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Food 2",
+        "description": "Description 2",
+        "recipe": [
+          {
+            "id": 2,
+            "title": "Recipe 2",
+            "ingredients": ["Ingredient 1", "Ingredient 2"],
+            "instructions": "Step 1, Step 2, Step 3"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Food 3",
+        "description": "Description 3",
+        "recipe": [
+          {
+            "id": 3,
+            "title": "Recipe 3",
+            "ingredients": ["Ingredient 1", "Ingredient 2"],
+            "instructions": "Step 1, Step 2, Step 3"
+          }
+        ]
+      }
+    ]
+  }
+  
